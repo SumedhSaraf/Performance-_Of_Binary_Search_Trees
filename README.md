@@ -4,10 +4,13 @@
 - Requested blocks are retained for a certain timeframe and returned accordingly
 
 ### Performance by assigning nodes from one end without memory release
-<img src="Graphs/Part1.png">
+<img src="Graphs/Part1.PNG">
+
 ### Performance by assigning nodes from one end with memory release
-<img src="Graphs/Part2.png">
+<img src="Graphs/Part2.PNG">
+
 ### Performance by assigning nodes from both the ends without memory release
-<img src="Graphs/Part3.png">
+<img src="Graphs/Part3.PNG">
+
 ### Performance by assigning nodes from one end with memory release
-<img src="Graphs/Part4.png">
+<img src="Graphs/Part4.PNG">
