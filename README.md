@@ -1,4 +1,4 @@
-# Performance-_Of_Binary_Search_Trees
+# Performance_Of_Binary_Search_Trees
 ### This Project deals with using BST data structure as a model to represent memory block usage.
 - Project code deals mainly with simulation of memory management by generating requests for memory of different sizes. 
 - Requested blocks are retained for a certain timeframe and returned accordingly
