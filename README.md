@@ -13,5 +13,5 @@
 ### Performance by assigning nodes from both the ends without memory release
 <img src="Graphs/Part3.PNG">
 
-### Performance by assigning nodes from one end with memory release
+### Performance by assigning nodes from both ends with memory release
 <img src="Graphs/Part4.PNG">
